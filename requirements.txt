@@ -1,0 +1,12 @@
+# GUI: 악보 → 가사 텍스트 (sheelyrisgui.py)
+opencv-python>=4.8
+numpy>=1.24
+Pillow>=10.0
+easyocr>=1.7
+torch>=2.0
+tkinterdnd2>=0.3.0
+google-generativeai>=0.8.0
+requests>=2.31
+cachetools>=5.3
+py-hanspell-aideer>=1.2.3
+pyspellchecker>=0.9.0

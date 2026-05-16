@@ -1,0 +1,35 @@
+# 비밀·산출물
+gemini_api_key.txt
+.env
+*.key
+lyrics.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# GUI 배포에 넣지 않는 대용량/학습
+data/
+checkpoints/
+runs/
+데이터셋/
+train/
+offline/
+student/
+eval/
+rewards/
+*.pt
+*.jsonl
+
+# 기타
+DISTILL_README.md
+run_distill.py
+sheet_lyrics_advanced.py
+requirements-train.txt
+내영혼이*.py
+*.rtf
+*.log
+.cursor/
+assets/
